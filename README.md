@@ -38,4 +38,4 @@ The game will display the following after each round:
 
 ![image](https://github.com/SatishKumar1911/Rock-Paper-Scissors-Game/assets/124880943/aaad2192-f5a0-416a-b657-47fecefc7e72)
 
-![image](https://github.com/SatishKumar1911/Rock-Paper-Scissors-Game/assets/124880943/53eefe55-4fc1-47f5-96da-73bd0f18a883)
+![image](https://github.com/SatishKumar1911/Rock-Paper-Scissors-Game/assets/124880943/78544ebb-3e1f-40a1-b9a8-115314ac83fa)
