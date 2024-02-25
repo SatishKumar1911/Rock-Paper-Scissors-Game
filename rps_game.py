@@ -60,7 +60,7 @@ while play:
             print("You won!")
         elif win == "computer":
             computer_score += 1
-            print("Computer won!")
+            print("You lost!")
         else:
             print("Draw!")
         print()
