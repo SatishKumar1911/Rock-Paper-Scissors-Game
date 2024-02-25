@@ -9,7 +9,7 @@ This is a simple command-line game of Rock, Paper, Scissors. You can play agains
 
 ## How to Play
 <ol>
-  <li>Clone the repository to your local machine: git clone </li>
+  <li>Clone the repository to your local machine: git clone https://github.com/SatishKumar1911/Rock-Paper-Scissors-Game.git</li>
   <li>Move inside the game folder: cd Rock-Paper-Scissors-Game</li>
   <li>Run the rps_game.py file using Python: python rps_game.py</li>
   <li>Follow the on-screen instructions to choose your move (rock, paper, or scissors).</li>
